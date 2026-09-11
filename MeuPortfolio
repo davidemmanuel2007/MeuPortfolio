@@ -13,7 +13,7 @@
 <body>
 
 <header class="header">
-  <a href="#inicio" class="logo">SEU<span>.</span>DEV</a>
+  <a href="#inicio" class="logo">Meu<span> </span>Portfolio</a>
   <button class="menu-btn" aria-label="Abrir menu">☰</button>
   <nav class="nav">
     <a href="#inicio">Início</a>
@@ -40,28 +40,19 @@
     </div>
 
     <div class="stack-strip">
-      <span>Laravel</span><span>PHP</span><span>Vue.js</span><span>Java</span>
-      <span>Node.js</span><span>TypeScript</span><span>AWS</span><span>Docker</span>
+      <span>JavaScript</span><span>HTML5</span><span>CSS3</span><span>Git</span>
     </div>
   </section>
 
-  <section class="trust">
-    <div><strong>8+</strong><span>Anos de experiência</span></div>
-    <div><strong>15+</strong><span>Projetos em produção</span></div>
-    <div><strong>10+</strong><span>Empresas atendidas</span></div>
-    <div><strong>200+</strong><span>Usuários ativos</span></div>
-  </section>
-
   <section id="sobre" class="section about">
-    <div class="section-number">01 / SOBRE</div>
+    <div class="section-number">01 / SOBRE MIM</div>
     <div class="section-content two-col">
       <div>
-        <p class="eyebrow">QUEM VAI CONSTRUIR</p>
         <h2>Mais do que código.<br><em>Problemas resolvidos.</em></h2>
       </div>
       <div class="about-copy">
-        <p>Sou <strong>Seu Nome</strong>, desenvolvedor Full Stack focado em criar produtos digitais e sistemas para problemas reais de negócio.</p>
-        <p>Atuo do planejamento ao deploy: arquitetura, desenvolvimento, integrações, banco de dados, testes e evolução contínua.</p>
+        <p>Me chamo <strong>David Emmanuel Silveira silva</strong>, pretendo me aprofundar na carreira de back-end altualmente e mais tarde me tornar um desenvolvedor Full Stack focado em criar produtos digitais e sistemas para resolução de problemas reais de negócio.</p>
+
         <div class="mini-info">
           <div><span>ATUAÇÃO</span><b>Remoto · Brasil e exterior</b></div>
           <div><span>MODELO</span><b>Freelance · PJ · Consultoria</b></div>
@@ -110,21 +101,6 @@
           <div><h3>Projeto Connect</h3><p>Camada de APIs para conectar diferentes sistemas e automatizar o fluxo de dados.</p><div class="tags"><span>Node.js</span><span>REST</span><span>AWS</span></div></div>
           <a href="#" aria-label="Ver projeto">↗</a>
         </article>
-      </div>
-    </div>
-  </section>
-
-  <section id="processo" class="section process">
-    <div class="section-number">04 / PROCESSO</div>
-    <div class="section-content">
-      <p class="eyebrow">COMO FUNCIONA</p>
-      <h2>Um processo simples,<br><em>sem caixa-preta.</em></h2>
-      <div class="process-grid">
-        <div><b>01</b><h3>Diagnóstico</h3><p>Entendo o problema antes de escolher a tecnologia.</p></div>
-        <div><b>02</b><h3>Proposta</h3><p>Escopo, prazo e investimento definidos claramente.</p></div>
-        <div><b>03</b><h3>Desenvolvimento</h3><p>Sprints curtos com entregas e acompanhamento.</p></div>
-        <div><b>04</b><h3>Deploy</h3><p>Testes, homologação e publicação em produção.</p></div>
-        <div><b>05</b><h3>Evolução</h3><p>Suporte e novas funcionalidades conforme o produto cresce.</p></div>
       </div>
     </div>
   </section>
